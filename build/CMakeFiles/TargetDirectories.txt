@@ -1,0 +1,3 @@
+/home/knightrider27/shadowFS/build/CMakeFiles/shadowfs.dir
+/home/knightrider27/shadowFS/build/CMakeFiles/edit_cache.dir
+/home/knightrider27/shadowFS/build/CMakeFiles/rebuild_cache.dir

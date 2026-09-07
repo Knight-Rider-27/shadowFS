@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/shadowfs.dir/src/main.c.o CMakeFiles/shadowfs.dir/src/fs_operations.c.o CMakeFiles/shadowfs.dir/src/cache.c.o -o shadowfs  -lfuse3 -lpthread 
